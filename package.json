@@ -1,0 +1,22 @@
+{
+  "name": "shader-loader",
+  "version": "1.0.0",
+  "description": "Shader loader (GLSL) for Webpack",
+  "main": "index.js",
+  "contributors": [
+    "Mark Langovoi <marklangovoi@gmail.com>",
+    "Arsen Sirekanyan"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "glsl",
+    "webpack",
+    "shader",
+    "loader",
+    "fsh",
+    "vsh"
+  ],
+  "devDependencies": {
+    "jscs": "~2.11.0"
+  }
+}

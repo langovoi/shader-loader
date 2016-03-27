@@ -1,0 +1,17 @@
+{
+  "preset": "airbnb",
+  "requireTrailingComma": null,
+  "validateIndentation": 4,
+  "validateQuoteMarks": "\"",
+  "requireSpacesInsideObjectBrackets": null,
+  "maximumLineLength": null,
+  "disallowQuotedKeysInObjects": null,
+  "requirePaddingNewLinesAfterBlocks": null,
+  "requireCamelCaseOrUpperCaseIdentifiers": true,
+  "requireDollarBeforejQueryAssignment": null,
+  "maxErrors": -1,
+  "esnext": true,
+  "excludeFiles": [
+    "node_modules/**"
+  ]
+}
